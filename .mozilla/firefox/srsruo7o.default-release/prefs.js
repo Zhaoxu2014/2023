@@ -40,8 +40,8 @@ user_pref("browser.pageActions.persistedActions", "{\"ids\":[\"bookmark\"],\"ids
 user_pref("browser.pagethumbnails.storage_version", 3);
 user_pref("browser.proton.toolbar.version", 3);
 user_pref("browser.region.update.updated", 1671682009);
-user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1671682071772");
-user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1671683852772");
+user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1671683852931");
+user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1671685652931");
 user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1671682020791");
 user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1671703620791");
 user_pref("browser.search.region", "CN");

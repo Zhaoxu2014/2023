@@ -620,3 +620,11 @@ qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 332, resource id
 qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1015, resource id: 75497496, major code: 20 (GetProperty), minor code: 0
 Warning: 20:30:37: Could not parse stylesheet of object HeaderBar(0x562e5e229d90) (:0, )
 qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1165, resource id: 75497501, major code: 18 (ChangeProperty), minor code: 0
+
+** (ukui-settings-daemon:5800): WARNING **: 20:37:14.530: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:37:14.962: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:37:31.795: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:37:32.297: Unhandled settings change, key 'capslock-state'
