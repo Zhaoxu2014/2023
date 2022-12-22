@@ -1,0 +1,442 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/zhaoxu/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ukui:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting GTK_IM_MODULE=fcitx
+dbus-update-activation-environment: setting LANGUAGE=zh_CN:en
+dbus-update-activation-environment: setting QT4_IM_MODULE=fcitx
+dbus-update-activation-environment: setting LC_ADDRESS=en_US.UTF-8
+dbus-update-activation-environment: setting LC_NAME=en_US.UTF-8
+dbus-update-activation-environment: setting XMODIFIERS=@im=fcitx
+dbus-update-activation-environment: setting DESKTOP_SESSION=ukui
+dbus-update-activation-environment: setting LC_MONETARY=en_US.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/zhaoxu
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ukui
+dbus-update-activation-environment: setting LOGNAME=zhaoxu
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/zhaoxu/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/zhaoxu
+dbus-update-activation-environment: setting GDM_LANG=zh_CN
+dbus-update-activation-environment: setting HOME=/home/zhaoxu
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=zh_CN.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=fcitx
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=en_US.UTF-8
+dbus-update-activation-environment: setting USER=zhaoxu
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=en_US.UTF-8
+dbus-update-activation-environment: setting QT_IM_MODULE=fcitx
+dbus-update-activation-environment: setting LC_MEASUREMENT=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting ZIPINFO=-O GBK
+dbus-update-activation-environment: setting UNZIP=-O GBK
+dbus-update-activation-environment: setting LC_TIME=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ukui:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=ukui
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=en_US.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+[ukui-polkit]: [12-17 19:58:18.336]  [Debug]: Polkit Agent Started
+Gtk-Message: 19:58:18.379: Failed to load module "topmenu-gtk-module"
+[ukui-polkit]: [12-17 19:58:18.884]  [Debug]: Language:  "zh_CN"
+[ukui-polkit]: [12-17 19:58:18.884]  [Debug]: load  "/usr/share/ukui-biometric/i18n_qm/polkit/zh_CN.qm"
+[ukui-polkit]: [12-17 19:58:18.884]  [Debug]: load  "/usr/share/ukui-biometric/i18n_qm/zh_CN.qm"
+[ukui-polkit]: [12-17 19:58:18.892]  [Debug]: New PolkitAgentListener  0x55b8de39b0e0
+[ukui-polkit]: [12-17 19:58:18.892]  [Debug]: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe7ee13410) for  0x55b8de39b0e0
+[ukui-polkit]: [12-17 19:58:18.910]  [Debug]: Listener /org/ukui/PolicyKit1/AuthenticationAgent registered.
+
+** (ukui-settings-daemon:1328): WARNING **: 19:58:19.387: Failed to open file “/etc/xrdb/General.ad”: 没有那个文件或目录
+
+** (ukui-settings-daemon:1328): WARNING **: 19:58:19.565: Unhandled settings change, key '(null)'
+
+** (ukui-settings-daemon:1328): WARNING **: 19:58:19.566: Unhandled settings change, key '(null)'
+(0x7ffc40d1a900) Warning: QCoreApplication::postEvent: Unexpected null receiver
+(0x7ffc40d1a900) Warning: QCoreApplication::postEvent: Unexpected null receiver
+(0x7ffc40d1a900) Warning: QWidget::setLayout: Attempting to set QLayout "" on UKUIStorageFrame "", which already has a layout
+(0x7ffc40d1a900) Debug: QLocale::system().name(): "zh_CN"
+(0x7ffc40d1a900) Debug: showCalendar: 3
+
+(process:1419): GLib-GIO-CRITICAL **: 19:58:21.500: _g_file_info_get_attribute_value: assertion 'G_IS_FILE_INFO (info)' failed
+
+(process:1419): GLib-GObject-CRITICAL **: 19:58:21.500: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+(0x7ffc40d1a900) Warning: QWidget::setMinimumSize: (WorldClockContent/CalendarActiveLabel) Negative sizes (104,-3) are not possible
+Warning: 19:58:21: QPixmap::scaled: Pixmap is a null pixmap (:0, )
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1077, resource id: 14680073, major code: 3 (GetWindowAttributes), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 1078, resource id: 14680073, major code: 14 (GetGeometry), minor code: 0
+(0x7ffc40d1a900) Warning: QDBusAbstractAdaptor: Cannot relay signal UKUITaskBar::buttonRotationRefreshed(bool,IUKUIPanel::Position): Unregistered input type in parameter list: IUKUIPanel::Position
+(0x7ffc40d1a900) Warning: QWidget::setMinimumSize: (WorldClockContent/CalendarActiveLabel) Negative sizes (104,-3) are not possible
+[: 1: Syntax error: Unterminated quoted string
+--------------creatDBusService
+Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created.
+Can not find wireless device object path when using dbus.
+QDBusArgument: write from a read-only object
+debug: *****初始的无线网络开关状态是:  true
+Gtk-Message: 19:58:24.384: Failed to load module "topmenu-gtk-module"
+Gtk-Message: 19:58:24.459: Failed to load module "topmenu-gtk-module"
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-x11.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-punc.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-table.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-ipcportal.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-keyboard.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-autoeng.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-xim.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-classic-ui.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-unicode.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-spell.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-lua.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-clipboard.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-xkbdbus.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-chttrans.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-vk.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-sogoupinyin.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-freedesktop-notify.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-dbus.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-notificationitem.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-cloudpinyin.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-xkb.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-kimpanel-ui.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-imselector.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-quickphrase.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-ipc.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-sogoupinyinhdm.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-sogoupinyinhxm.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-remote-module.conf
+(INFO-1548 addon.c:151) 加载附加组件配置文件: fcitx-sunpinyin.conf
+":1.55"
+getenv(display) :0
+service_name com.ukuiflashdisk.hotel_1000_:0
+--------------creatDBusService
+QMetaObject::connectSlotsByName: No matching signal for on_Maininterface_hide()
+(ERROR-1548 ime.c:432) fcitx-keyboard-in-tel-kagapa already exists
+(ERROR-1548 ime.c:432) fcitx-keyboard-cm-mmuock already exists
+(FATAL-1548 classicui.c:127) ClassicUICreate classicui->dpi = 96
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/input.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/bar.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/menu.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/cn.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/logo.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/en.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/chttrans_inactive.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/punc_active.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/fullwidth_inactive.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/vk_inactive.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/bar.png
+(FATAL-1548 XlibWindow.c:278) FcitxXlibWindowPaint window->contentX = 8
+(FATAL-1548 XlibWindow.c:279) FcitxXlibWindowPaint window->contentY = 8
+(FATAL-1548 XlibWindow.c:280) FcitxXlibWindowPaint window->contentWidth = 126
+(FATAL-1548 XlibWindow.c:281) FcitxXlibWindowPaint window->contentHeight = 22
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/input.png
+(FATAL-1548 XlibWindow.c:278) FcitxXlibWindowPaint window->contentX = 10
+(FATAL-1548 XlibWindow.c:279) FcitxXlibWindowPaint window->contentY = 10
+(FATAL-1548 XlibWindow.c:280) FcitxXlibWindowPaint window->contentWidth = 80
+(FATAL-1548 XlibWindow.c:281) FcitxXlibWindowPaint window->contentHeight = 0
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/prev.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/next.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/chttrans_active.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/punc_inactive.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/fullwidth_active.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/vk_active.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/remind_active.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/remind_inactive.png
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/menu.png
+Gtk-Message: 19:58:25.267: Failed to load module "topmenu-gtk-module"
+
+(process:1528): GLib-GIO-CRITICAL **: 19:58:25.326: g_volume_get_identifier: assertion 'G_IS_VOLUME (volume)' failed
+
+(process:1528): GLib-GIO-CRITICAL **: 19:58:25.326: g_volume_get_identifier: assertion 'G_IS_VOLUME (volume)' failed
+
+(process:1528): GLib-GIO-CRITICAL **: 19:58:25.326: g_volume_can_eject: assertion 'G_IS_VOLUME (volume)' failed
+(FATAL-1548 TrayWindow.c:279) TrayEventHandler ConfigureNotify size=12
+
+(FATAL-1548 skin.c:256) LoadImageFromTablefilename = /usr/share/fcitx/skin/dark/inactive.png
+debug: *****path is:  "/org/freedesktop/NetworkManager/ActiveConnection/1"
+debug: *****connection type is:  "802-3-ethernet"
+QDBusArgument: write from a read-only object
+建立DBus服务成功：  true
+Gtk-Message: 19:58:25.849: Failed to load module "topmenu-gtk-module"
+Gtk-Message: 19:58:25.898: Failed to load module "topmenu-gtk-module"
+0
+
+(ukui-power-manager:1534): GLib-CRITICAL **: 19:58:26.366: g_variant_new_string: assertion 'string != NULL' failed
+blueman-applet 19.58.26 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 19.58.26 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+QSystemTrayIcon::setVisible: No Icon set
+偏移的x坐标 0
+偏移的Y坐标 0
+主屏Width  -->  1718
+主屏Height -->  888
+当前链表中保存了几个desktop文件----> 3 ("ukui-clock.desktop", "ukui-notebook.desktop", "ukui-feedback.desktop")
+Reply value of getting weather data by URL is:  200
+new menu
+Gtk-Message: 19:58:27.295: Failed to load module "topmenu-gtk-module"
+内容name----> "闹钟" 字体宽度---->fontsize 30
+插件接口名称 "闹钟"
+add_y 3 add_x 0
+内容name----> "麒麟便签本" 字体宽度---->fontsize 75
+插件接口名称 "麒麟便签本"
+add_y 5 add_x 0
+内容name----> "用户反馈" 字体宽度---->fontsize 60
+插件接口名称 "用户反馈"
+add_y 7 add_x 0
+x --> 0 y --> 7
+------------------creatorSqlState-------------------
+dbus-monitor: 未找到进程
+剪贴板高度 407
+设置小剪贴板的界面大小----> 407
+QSystemTrayIcon::setVisible: No Icon set
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2426, resource id: 46137348, major code: 12 (ConfigureWindow), minor code: 0
+
+(vmware-user:1572): Gtk-WARNING **: 19:58:27.945: gtk_disable_setlocale() must be called before gtk_init()
+---------------------------主界面加载完毕---------------------------
+Cannot get wake-on-lan settings: Operation not permitted
+===
+state of network: '0' is connected, '1' is disconnected, '2' is net device switch off
+current network state:  lan state = 0 ,  wifi state = 2
+===
+"signal time=1671335907.733135 sender=org.freedesktop.DBus -> destination=:1.83 serial=2 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameAcquired\n   string \":1.83\"\nsignal time=1671335907.733189 sender=org.freedesktop.DBus -> destination=:1.83 serial=4 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameLost\n   string \":1.83\"\n"
+Gtk-Message: 19:58:29.127: Failed to load module "topmenu-gtk-module"
+Gtk-Message: 19:58:29.143: Failed to load module "topmenu-gtk-module"
+Gtk-Message: 19:58:29.150: Failed to load module "topmenu-gtk-module"
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QDBusArgument: write from a read-only object
+ret  65280 0
+There is no recording application, input icon disabled
+Output icon enabled
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2613, resource id: 81788931, major code: 12 (ConfigureWindow), minor code: 0
+设置小剪贴板的界面大小----> 407
+panel所在的位置 0
+
+(blueman-tray:1639): Gdk-CRITICAL **: 19:58:29.977: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+""
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+QFont::setPointSize: Point size <= 0 (-1), must be greater than 0
+panel所在的位置 0
+(WARN-1548 x11selection.c:309) Selection is too long.
+(WARN-1548 x11selection.c:309) Selection is too long.
+hash表中的Sequence 0
+sgim_gd_cell.bin copy fail
+10000001.scel copy fail
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+参数列表过长: 参数列表过长
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+没有那个文件或目录: 没有那个文件或目录
+Gtk-Message: 19:58:32.984: Failed to load module "topmenu-gtk-module"
+"/usr/share/applications/mate-terminal.desktop"
+""
+/usr/lib/ubuntu-release-upgrader/check-new-release-gtk:30: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4415, resource id: 88080387, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4420, resource id: 88080387, major code: 18 (ChangeProperty), minor code: 0
+Gtk-Message: 19:58:40.162: Failed to load module "topmenu-gtk-module"
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4787, resource id: 60817411, major code: 12 (ConfigureWindow), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4792, resource id: 60817415, major code: 12 (ConfigureWindow), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4804, resource id: 60817423, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4805, resource id: 60817423, major code: 12 (ConfigureWindow), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4810, resource id: 60817427, major code: 12 (ConfigureWindow), minor code: 0
+
+(mate-terminal:1794): Gdk-WARNING **: 19:58:40.625: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(mate-terminal:1794): Gdk-WARNING **: 19:58:40.626: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(mate-terminal:1794): Gdk-WARNING **: 19:58:40.626: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(mate-terminal:1794): Gdk-WARNING **: 19:58:40.626: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+"/usr/share/applications/update-manager.desktop"
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 6755, resource id: 54526109, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 6760, resource id: 54526109, major code: 18 (ChangeProperty), minor code: 0
+Warning: 19:58:53: Could not parse stylesheet of object HeaderBar(0x55d5fd918d90) (:0, )
+Warning: 19:58:53: Could not parse stylesheet of object HeaderBar(0x55d5fd918d90) (:0, )
+Warning: 19:58:53: Could not parse stylesheet of object HeaderBar(0x55d5fd918d90) (:0, )
+Warning: 19:58:53: Could not parse stylesheet of object HeaderBar(0x55d5fd918d90) (:0, )
+Warning: 19:58:53: QLayout: Attempting to add QLayout "" to TabWidget "", which already has a layout (:0, )
+Warning: 19:58:53: QLayout: Attempting to add QLayout "" to TabWidget "", which already has a layout (:0, )
+Warning: 19:58:53: QLayout: Attempting to add QLayout "" to TabWidget "", which already has a layout (:0, )
+Warning: 19:58:53: QCoreApplication::postEvent: Unexpected null receiver (:0, )
+Warning: 19:58:54: Could not parse stylesheet of object HeaderBar(0x55d5fd918d90) (:0, )
+"/usr/share/applications/peony.desktop"
+"/usr/share/applications/vim.desktop"
+Gtk-Message: 19:58:57.678: Failed to load module "topmenu-gtk-module"
+
+** (mate-terminal:1794): CRITICAL **: 19:59:04.254: terminal_window_remove_screen: assertion 'gtk_widget_get_toplevel (GTK_WIDGET (screen)) == GTK_WIDGET (window)' failed
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 9173, resource id: 54526740, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 9178, resource id: 54526740, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 11286, resource id: 83886110, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 11299, resource id: 83886098, major code: 20 (GetProperty), minor code: 0
+Gtk-Message: 19:59:09.414: Failed to load module "topmenu-gtk-module"
+
+** (mate-terminal:1794): CRITICAL **: 19:59:11.560: terminal_window_remove_screen: assertion 'gtk_widget_get_toplevel (GTK_WIDGET (screen)) == GTK_WIDGET (window)' failed
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12108, resource id: 54526847, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12113, resource id: 54526847, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12456, resource id: 83886116, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 13799, resource id: 83886122, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 14381, resource id: 83886138, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 15219, resource id: 83886144, major code: 20 (GetProperty), minor code: 0
+"/usr/share/applications/vim.desktop"
+Gtk-Message: 19:59:20.748: Failed to load module "topmenu-gtk-module"
+
+** (mate-terminal:1794): CRITICAL **: 19:59:24.553: terminal_window_remove_screen: assertion 'gtk_widget_get_toplevel (GTK_WIDGET (screen)) == GTK_WIDGET (window)' failed
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 16132, resource id: 54526877, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 16137, resource id: 54526877, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17533, resource id: 83886150, major code: 20 (GetProperty), minor code: 0
+
+** (ukui-settings-daemon:1328): WARNING **: 19:59:33.908: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 19:59:37.959: Unhandled settings change, key 'capslock-state'
+
+(ukui-window-switch:1580): Wnck-CRITICAL **: 19:59:42.339: wnck_workspace_activate: assertion 'WNCK_IS_WORKSPACE (space)' failed
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 20111, resource id: 77594627, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 20116, resource id: 77594627, major code: 18 (ChangeProperty), minor code: 0
+"/usr/share/applications/pluma.desktop"
+Gtk-Message: 19:59:44.737: Failed to load module "topmenu-gtk-module"
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22558, resource id: 77594653, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22559, resource id: 77594653, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22561, resource id: 77594653, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22562, resource id: 77594653, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22563, resource id: 77594653, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22568, resource id: 77594653, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 27852, resource id: 83886160, major code: 20 (GetProperty), minor code: 0
+
+** (ukui-settings-daemon:1328): WARNING **: 20:01:36.099: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 20:01:36.594: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 20:01:40.691: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 20:01:41.067: Unhandled settings change, key 'capslock-state'
+(WARN-1548 x11selection.c:309) Selection is too long.
+(WARN-1548 x11selection.c:309) Selection is too long.
+当前的数据就是置顶数据------>booleanExistWidgetItem
+此数据已存在，就是当前置顶的条数
+(WARN-1548 x11selection.c:309) Selection is too long.
+(WARN-1548 x11selection.c:309) Selection is too long.
+当前的数据就是置顶数据------>booleanExistWidgetItem
+此数据已存在，就是当前置顶的条数
+"/usr/share/applications/vim.desktop"
+Gtk-Message: 20:02:51.734: Failed to load module "topmenu-gtk-module"
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39305, resource id: 54527855, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39310, resource id: 54527855, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 40261, resource id: 83886172, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 41902, resource id: 83886184, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 42526, resource id: 83886190, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 42531, resource id: 83886190, major code: 18 (ChangeProperty), minor code: 0
+panel所在的位置 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 45235, resource id: 83886210, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 45966, resource id: 83886216, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 45971, resource id: 83886216, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 46372, resource id: 83886222, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47326, resource id: 83886228, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 48150, resource id: 83886234, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 49748, resource id: 83886240, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 50482, resource id: 54525959, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 50487, resource id: 54525959, major code: 18 (ChangeProperty), minor code: 0
+Gtk-Message: 20:03:37.506: Failed to load module "topmenu-gtk-module"
+"/usr/share/applications/mate-terminal.desktop"
+"/usr/share/applications/pluma.desktop"
+Gtk-Message: 20:03:48.522: Failed to load module "topmenu-gtk-module"
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 54059, resource id: 77594653, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 54060, resource id: 77594653, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 54062, resource id: 77594653, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 54063, resource id: 77594653, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 54064, resource id: 77594653, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 54069, resource id: 77594653, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 62594, resource id: 54525959, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 62599, resource id: 54525959, major code: 18 (ChangeProperty), minor code: 0
+Gtk-Message: 20:05:46.167: Failed to load module "topmenu-gtk-module"
+"/usr/share/applications/mate-terminal.desktop"
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 628, resource id: 54526184, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 633, resource id: 54526184, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 636, resource id: 54525959, major code: 42 (SetInputFocus), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 637, resource id: 54525959, major code: 25 (SendEvent), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 651, resource id: 54525959, major code: 15 (QueryTree), minor code: 0
+Gtk-Message: 20:06:38.028: Failed to load module "topmenu-gtk-module"
+"/usr/share/applications/mate-terminal.desktop"
+
+** (ukui-settings-daemon:1328): WARNING **: 20:08:12.319: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 20:08:13.383: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 20:08:15.121: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 20:08:16.020: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 20:09:32.513: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:1328): WARNING **: 20:09:33.218: Unhandled settings change, key 'capslock-state'
+hash表中的Sequence 1
+kylin-nm receive a signal 'Device.Wired PropertiesChanged' about interface.
+hash表中的Sequence 2

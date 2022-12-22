@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/zhaoxu/test1.c" added="2022-12-03T00:06:01Z" modified="2022-12-18T03:59:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2022-12-18T03:59:50Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zhaoxu/test1.cpp" added="2022-12-17T20:02:51Z" modified="2022-12-17T20:02:51Z" visited="2022-12-17T20:02:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="test1.cpp" exec="&amp;apos;Vim %u&amp;apos;" modified="2022-12-17T20:02:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zhaoxu/test.cpp" added="2022-12-17T20:03:48Z" modified="2022-12-18T04:03:50Z" visited="2022-12-17T20:03:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="test.cpp" exec="&amp;apos;Pluma %u&amp;apos;" modified="2022-12-17T20:03:48Z" count="1"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2022-12-18T04:03:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zhaoxu/test5.c" added="2022-12-21T19:44:49Z" modified="2022-12-22T03:45:05Z" visited="2022-12-21T19:44:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="test5.c" exec="&amp;apos;Pluma %u&amp;apos;" modified="2022-12-21T19:44:49Z" count="1"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2022-12-22T03:45:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zhaoxu/test5.cpp" added="2022-12-21T19:46:20Z" modified="2022-12-21T19:46:20Z" visited="2022-12-21T19:46:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="test5.cpp" exec="&amp;apos;Vim %u&amp;apos;" modified="2022-12-21T19:46:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zhaoxu/1.cpp" added="2022-12-21T19:47:43Z" modified="2022-12-22T03:47:46Z" visited="2022-12-21T19:47:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="1.cpp" exec="&amp;apos;Pluma %u&amp;apos;" modified="2022-12-21T19:47:43Z" count="1"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2022-12-22T03:47:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zhaoxu/.ssh/id_rsa.pub" added="2022-12-22T04:05:12Z" modified="2022-12-22T04:05:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-publisher"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-12-22T04:05:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
