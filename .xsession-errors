@@ -628,3 +628,146 @@ qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1165, resource i
 ** (ukui-settings-daemon:5800): WARNING **: 20:37:31.795: Unhandled settings change, key 'capslock-state'
 
 ** (ukui-settings-daemon:5800): WARNING **: 20:37:32.297: Unhandled settings change, key 'capslock-state'
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 25162, resource id: 102760657, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 25167, resource id: 102760657, major code: 18 (ChangeProperty), minor code: 0
+
+** (ukui-settings-daemon:5800): WARNING **: 20:38:53.745: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:38:54.244: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:39:00.329: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:39:01.329: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:17.108: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:17.570: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:17.723: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:18.419: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:18.554: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:20.147: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:27.866: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:28.563: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:33.698: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:41:34.234: Unhandled settings change, key 'capslock-state'
+kylin-nm receive a signal 'Device.Wired PropertiesChanged' about interface.
+Reply value of getting weather data by URL is:  200
+
+** (ukui-settings-daemon:5800): WARNING **: 20:43:50.042: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:43:50.522: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:45:45.362: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:45:46.043: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:46:05.387: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:46:05.986: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:46:12.898: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:46:13.460: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:46:29.610: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:46:30.260: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:47:40.318: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:47:43.120: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:48:17.738: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:48:18.272: Unhandled settings change, key 'capslock-state'
+hash表中的Sequence 9
+
+** (ukui-settings-daemon:5800): WARNING **: 20:51:15.933: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:51:16.660: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:51:18.495: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:51:19.144: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:51:45.032: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:51:45.840: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:51:51.723: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 20:51:52.608: Unhandled settings change, key 'capslock-state'
+hash表中的Sequence 10
+kylin-nm receive a signal 'Device.Wired PropertiesChanged' about interface.
+hash表中的Sequence 11
+Reply value of getting weather data by URL is:  200
+panel所在的位置 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 64087, resource id: 29383242, major code: 20 (GetProperty), minor code: 0
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:26.931: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:27.437: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:28.493: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:28.915: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:35.291: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:35.885: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:49.564: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:50.459: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:53.187: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:08:53.875: Unhandled settings change, key 'capslock-state'
+hash表中的Sequence 12
+hash表中的Sequence 13
+当前的数据就是置顶数据------>booleanExistWidgetItem
+此数据已存在，就是当前置顶的条数
+hash表中的Sequence 14
+当前的数据就是置顶数据------>booleanExistWidgetItem
+此数据已存在，就是当前置顶的条数
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39834, resource id: 56635804, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39839, resource id: 56635804, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39842, resource id: 56623111, major code: 42 (SetInputFocus), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39843, resource id: 56623111, major code: 25 (SendEvent), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39857, resource id: 56623111, major code: 15 (QueryTree), minor code: 0
+panel所在的位置 0
+Warning: 21:12:10: Could not parse stylesheet of object HeaderBar(0x55625e3c3be0) (:0, )
+Warning: 21:12:10: Could not parse stylesheet of object HeaderBar(0x55625e3c3be0) (:0, )
+Warning: 21:12:10: Could not parse stylesheet of object HeaderBar(0x55625e3c3be0) (:0, )
+Warning: 21:12:10: Could not parse stylesheet of object HeaderBar(0x55625e3c3be0) (:0, )
+Warning: 21:12:10: QLayout: Attempting to add QLayout "" to TabWidget "", which already has a layout (:0, )
+Warning: 21:12:10: QLayout: Attempting to add QLayout "" to TabWidget "", which already has a layout (:0, )
+Warning: 21:12:10: QLayout: Attempting to add QLayout "" to TabWidget "", which already has a layout (:0, )
+Warning: 21:12:10: QCoreApplication::postEvent: Unexpected null receiver (:0, )
+Warning: 21:12:11: Could not parse stylesheet of object HeaderBar(0x55625e3c3be0) (:0, )
+"/usr/share/applications/peony.desktop"
+Warning: 21:12:12: Could not parse stylesheet of object HeaderBar(0x55625e3c3be0) (:0, )
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 42416, resource id: 56623121, major code: 18 (ChangeProperty), minor code: 0
+Gtk-Message: 21:12:16.927: Failed to load module "topmenu-gtk-module"
+
+(mate-terminal:13474): GLib-GIO-CRITICAL **: 21:12:17.433: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+"/usr/share/applications/mate-terminal.desktop"
+hash表中的Sequence 15
+kylin-nm receive a signal 'Device.Wired PropertiesChanged' about interface.
+hash表中的Sequence 16
+hash表中的Sequence 17
+
+** (ukui-settings-daemon:5800): WARNING **: 21:13:43.518: Unhandled settings change, key 'capslock-state'
+
+** (ukui-settings-daemon:5800): WARNING **: 21:13:44.061: Unhandled settings change, key 'capslock-state'
+hash表中的Sequence 18
+hash表中的Sequence 19
+hash表中的Sequence 20

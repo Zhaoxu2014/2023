@@ -1024,3 +1024,30 @@ Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x100)
 Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x2000)
 Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x100)
 Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x2000)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x100)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x2000)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x100)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x2000)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x100)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x2000)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x100)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x2000)
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8|0x100)
+Warning: QDBusAbstractAdaptor: Cannot relay signal UKUITaskBar::popupShown(UKUITaskGroup*): Pointers are not supported: UKUITaskGroup*
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8)
+Warning: QDBusAbstractAdaptor: Cannot relay signal UKUITaskBar::popupShown(UKUITaskGroup*): Pointers are not supported: UKUITaskGroup*
+Warning: QDBusAbstractAdaptor: Cannot relay signal UKUITaskBar::buttonRotationRefreshed(bool,IUKUIPanel::Position): Unregistered input type in parameter list: IUKUIPanel::Position
+Warning: QObject::connect: No such signal UKUITaskWidget::clicked()
+Warning: QObject::connect:  (receiver name: 'peony-qt')
+Warning: QDBusAbstractAdaptor: Cannot relay signal UKUITaskBar::buttonRotationRefreshed(bool,IUKUIPanel::Position): Unregistered input type in parameter list: IUKUIPanel::Position
+Warning: QDBusAbstractAdaptor: Cannot relay signal UKUITaskBar::buttonRotationRefreshed(bool,IUKUIPanel::Position): Unregistered input type in parameter list: IUKUIPanel::Position
+Warning: QObject::connect: No such signal UKUITaskWidget::clicked()
+Warning: QObject::connect:  (receiver name: 'Mate-terminal')
+Warning: QDBusAbstractAdaptor: Cannot relay signal UKUITaskBar::buttonRotationRefreshed(bool,IUKUIPanel::Position): Unregistered input type in parameter list: IUKUIPanel::Position
+Debug: KWindowInfo(mWindow,NET::WMState).state(): QFlags(0x4|0x8)
